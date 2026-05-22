@@ -3,6 +3,7 @@
 This repository contains my personal collection of notes, assignments, and experiences from **CPSC 330 - Applied Machine Learning** at the University of British Columbia (UBC), taken during the **Summer 2026 (Term 1)** session.
 
 ---
+**PS: 05/22 - can't be bothered to add tutorials and demos cuz i'm lazy lol**
 
 ## Important Notice
 The materials in this repository are based on the [official UBC CPSC 330 curriculum](https://ubc-cs.github.io/cpsc330-2025W1/README.html) (the hyperlink takes you to the 2025W version but the course material is exactly the same). To maintain academic integrity:
