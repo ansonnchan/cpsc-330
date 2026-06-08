@@ -6,7 +6,11 @@ This repository contains my personal collection of notes, assignments, and exper
 **PS: 05/22 - can't be bothered to add tutorials and demos cuz i'm lazy lol**
 
 ## Important Notice
-The materials in this repository are based on the [official UBC CPSC 330 curriculum](https://ubc-cs.github.io/cpsc330-2025W1/README.html) (the hyperlink takes you to the 2025W version but the course material is exactly the same). To maintain academic integrity:
+The materials in this repository are based on the [official UBC CPSC 330 curriculum](https://ubc-cs.github.io/cpsc330-2025W1/README.html) (the hyperlink takes you to the 2025W version but the course material is exactly the same).
+<br>
+
+**Update**: The following link takes you to the [2026S version.](https://ubc-cs.github.io/cpsc330-2026S1/)
+<br>To maintain academic integrity:
 * **Do not share or copy answers:** These materials are for personal reference only.
 * **Privacy Disclaimer:** This repository is public for portfolio purposes but may be made private at any time if requested by UBC.
 
